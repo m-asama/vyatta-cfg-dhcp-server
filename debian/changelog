@@ -1,3 +1,9 @@
+vyatta-cfg-dhcp-server (0.12.36+helium0+focal0+rev20200430155331) unstable; urgency=low
+
+  * New branch.
+
+ -- Masakazu Asama <m-asama@ginzado.co.jp>  Fri,  7 Feb 2020 20:59:26 +0900
+
 vyatta-cfg-dhcp-server (0.12.36+vyos1+helium6) unstable; urgency=low
 
   * vyatta-cfg-dhcp-server: formatting changes for style consistency
